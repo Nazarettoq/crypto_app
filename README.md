@@ -2,4 +2,14 @@
 This website is designed to track cryptocurrency information and view the latest news.
 
 
+
 Link to visit website: https://nazarettoq.github.io/crypto_app/
+
+The data in the application is obtained from a free service providing api, so server requests are limited, there is some examples how it`s look like in case access to api is temporarily unavailable
+
+Home page:
+![image](https://user-images.githubusercontent.com/51248691/141106708-2d494f23-2cbc-4c40-83b3-981398992e30.png)
+
+News:
+![image](https://user-images.githubusercontent.com/51248691/141106754-78749755-d8b5-4262-84bf-faf7645aa689.png)
+
