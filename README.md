@@ -9,10 +9,10 @@ The data in the application is obtained from a free service providing api, so se
 
 Home page:
 
-<img src="https://user-images.githubusercontent.com/51248691/141106708-2d494f23-2cbc-4c40-83b3-981398992e30.png" width="1200">
+<img src="https://user-images.githubusercontent.com/51248691/141106708-2d494f23-2cbc-4c40-83b3-981398992e30.png" width="600">
 Home page mobile version:
 
-<img src="https://user-images.githubusercontent.com/51248691/141107757-eaecb885-f169-4c86-af6d-13541ae4d2b3.png" width="1200">
+<img src="https://user-images.githubusercontent.com/51248691/141107757-eaecb885-f169-4c86-af6d-13541ae4d2b3.png" width="400">
 News:
 
 <img src="https://user-images.githubusercontent.com/51248691/141106754-78749755-d8b5-4262-84bf-faf7645aa689.png" width="600">
