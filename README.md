@@ -8,11 +8,14 @@ Link to visit website: https://nazarettoq.github.io/crypto_app/
 The data in the application is obtained from a free service providing api, so server requests are limited, there is some examples how it`s look like in case access to api is temporarily unavailable
 
 Home page:
-![image](https://user-images.githubusercontent.com/51248691/141106708-2d494f23-2cbc-4c40-83b3-981398992e30.png)
 
+<img src="https://user-images.githubusercontent.com/51248691/141106708-2d494f23-2cbc-4c40-83b3-981398992e30.png" width="48">
 Home page mobile version:
-![image](https://user-images.githubusercontent.com/51248691/141107757-eaecb885-f169-4c86-af6d-13541ae4d2b3.png)
 
+<img src="https://user-images.githubusercontent.com/51248691/141107757-eaecb885-f169-4c86-af6d-13541ae4d2b3.png" width="48">
 News:
-![image](https://user-images.githubusercontent.com/51248691/141106754-78749755-d8b5-4262-84bf-faf7645aa689.png)
+
+<img src="https://user-images.githubusercontent.com/51248691/141106754-78749755-d8b5-4262-84bf-faf7645aa689.png" width="48">
+
+
 
